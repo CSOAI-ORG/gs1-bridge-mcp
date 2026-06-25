@@ -1,0 +1,7 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-07-09/server.schema.json",
+  "name": "io.github.CSOAI-ORG/gs1-bridge-mcp",
+  "description": "Bridge GS1 / EPCIS supply-chain identity + traceability to ONE OS — parse, map, govern (EU Digital Product Passport / food safety).",
+  "version": "0.1.0",
+  "packages": [{"registryType": "pypi", "identifier": "gs1-bridge-mcp", "version": "0.1.0", "runtimeHint": "python", "transport": {"type": "stdio"}}]
+}

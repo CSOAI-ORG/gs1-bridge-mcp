@@ -1,0 +1,2 @@
+# gs1-bridge-mcp
+# CSOAI Layer-0 legacy-bridge. Bridge GS1 / EPCIS supply-chain identity + traceability to ONE OS — parse, map, govern (EU Digital Product Passport / food safety).
